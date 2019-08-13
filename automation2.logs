@@ -1,0 +1,49 @@
+13/08/2019 22:51:36 devpinoyLogger ====================================================================================
+13/08/2019 22:51:36 devpinoyLogger ----------------------------------verify_home_title------------------------------------------
+13/08/2019 22:51:36 devpinoyLogger ====================================================================================
+13/08/2019 22:51:36 devpinoyLogger Expected Value : My Store
+13/08/2019 22:51:36 devpinoyLogger Actual Value : My Store
+13/08/2019 22:51:36 devpinoyLogger Result : pass
+13/08/2019 22:51:36 devpinoyLogger 
+13/08/2019 22:51:36 devpinoyLogger ====================================================================================
+13/08/2019 22:51:36 devpinoyLogger ----------------------------------verify_signin_text------------------------------------------
+13/08/2019 22:51:36 devpinoyLogger ====================================================================================
+13/08/2019 22:51:36 devpinoyLogger Expected Value : Sign in
+13/08/2019 22:51:36 devpinoyLogger Actual Value : Sign in
+13/08/2019 22:51:36 devpinoyLogger Result : pass
+13/08/2019 22:51:36 devpinoyLogger 
+13/08/2019 22:51:38 devpinoyLogger ====================================================================================
+13/08/2019 22:51:38 devpinoyLogger ----------------------------------test_signin_click------------------------------------------
+13/08/2019 22:51:38 devpinoyLogger ====================================================================================
+13/08/2019 22:51:38 devpinoyLogger Expected Value : Login - My Store
+13/08/2019 22:51:38 devpinoyLogger Actual Value : Login - My Store
+13/08/2019 22:51:38 devpinoyLogger Result : pass
+13/08/2019 22:51:38 devpinoyLogger 
+13/08/2019 22:51:45 devpinoyLogger ====================================================================================
+13/08/2019 22:51:45 devpinoyLogger ----------------------------------test_login------------------------------------------
+13/08/2019 22:51:45 devpinoyLogger ====================================================================================
+13/08/2019 22:51:45 devpinoyLogger Expected Value : test test
+13/08/2019 22:51:45 devpinoyLogger Actual Value : test test
+13/08/2019 22:51:45 devpinoyLogger Result : pass
+13/08/2019 22:51:45 devpinoyLogger 
+13/08/2019 22:51:57 devpinoyLogger ====================================================================================
+13/08/2019 22:51:57 devpinoyLogger ----------------------------------test_login------------------------------------------
+13/08/2019 22:51:57 devpinoyLogger ====================================================================================
+13/08/2019 22:51:57 devpinoyLogger Expected Value : Invalid email address.
+13/08/2019 22:51:57 devpinoyLogger Actual Value : Invalid email address.
+13/08/2019 22:51:57 devpinoyLogger Result : pass
+13/08/2019 22:51:57 devpinoyLogger 
+13/08/2019 22:52:09 devpinoyLogger ====================================================================================
+13/08/2019 22:52:09 devpinoyLogger ----------------------------------test_login------------------------------------------
+13/08/2019 22:52:09 devpinoyLogger ====================================================================================
+13/08/2019 22:52:09 devpinoyLogger Expected Value : Authentication failed.
+13/08/2019 22:52:09 devpinoyLogger Actual Value : Authentication failed.
+13/08/2019 22:52:09 devpinoyLogger Result : pass
+13/08/2019 22:52:09 devpinoyLogger 
+13/08/2019 22:52:14 devpinoyLogger ====================================================================================
+13/08/2019 22:52:14 devpinoyLogger ----------------------------------test_login------------------------------------------
+13/08/2019 22:52:14 devpinoyLogger ====================================================================================
+13/08/2019 22:52:14 devpinoyLogger Expected Value : test test
+13/08/2019 22:52:14 devpinoyLogger Actual Value : test west
+13/08/2019 22:52:14 devpinoyLogger Result : false
+13/08/2019 22:52:14 devpinoyLogger 
